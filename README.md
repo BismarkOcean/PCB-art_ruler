@@ -1,4 +1,4 @@
-# 双面矢量 PCB 尺子
+# GPT和Claude PCB 尺子
 
 [![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)
 
