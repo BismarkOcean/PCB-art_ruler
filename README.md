@@ -95,10 +95,7 @@ EDA 的 2D 预览默认底面切换采用短边翻转，背面会呈现旋转 18
 
 ## 素材来源与署名
 
-| 内容 | 作者 / 来源 |
-| --- | --- | --- |
-| PCB 尺子设计、工程整理与刻度排版 | **BismarkOcean** |
-| 形象 | **B站 ZipZipPipe** |
+原形象来源 B站ZipZipPipe(https://space.bilibili.com/4168597/dynamic)
 
 ## 许可协议
 
